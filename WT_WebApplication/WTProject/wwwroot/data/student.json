@@ -1,0 +1,27 @@
+{
+  "Students": [
+    {
+      "No": "201813709004",
+      "Name": "Atadan",
+      "Surname": "\u0130\u00E7en",
+      "Age": 21,
+      "Course": [
+        "Bilgisayar A\u011Flar\u0131",
+        "Bilgisayar Organizasyonu",
+        "\u0130\u015F Sa\u011Fl\u0131\u011F\u0131 ve G\u00FCvenli\u011Fi"
+      ]
+    },
+    {
+      "No": "201813709033",
+      "Name": "Mert",
+      "Surname": "\u00C7ikendin",
+      "Age": 20,
+      "Course": [
+        "Bilgisayar A\u011Flar\u0131",
+        "Bilgisayar Organizasyonu",
+        "\u0130\u015F Sa\u011Fl\u0131\u011F\u0131 ve G\u00FCvenli\u011Fi"
+      ]
+    }
+  ],
+  "Class": "Web Tasar\u0131m\u0131"
+}
